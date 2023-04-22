@@ -1,0 +1,142 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Montserrat:wght@300&display=swap'); */
+.button{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+  }
+  nav{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.1em;
+    justify-content: center;
+    background-color: #242424;
+  }
+  a img{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: auto;
+  }
+  a:link {
+    color: #57b1dc;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a image:focus {
+    pointer-events: none;
+    outline: none;
+  }
+  a:visited {
+    color: #1089c2;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:hover, a:focus{
+    background-color: azure;
+    color: #57b1dc;
+  }
+  ul,ol{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 1.1em;
+    justify-content: center;
+    color: azure;
+  }
+  body{ 
+      background-color: #2e2e2e; 
+      margin: 0 10%; 
+      font-family: sans-serif; 
+      }
+  h1 { 
+      text-align: center;
+      font-family: 'Fjalla One', sans-serif;
+      letter-spacing: .15em;
+      font-weight: normal; 
+      font-size: 3em;
+      text-transform: uppercase; 
+      border-bottom: 1px solid #57b1dc;
+      
+      color: azure;
+      text-shadow: .05em .05em .1em black;
+      } 
+      .socialmedia{
+        max-height: 1000px;
+        max-width: 1000px;
+        max-width: 50%;
+        flex: 100%;
+      }
+      .logo{
+        margin: auto;
+        width: 200px;
+        height: 200px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        
+      }
+      h2 { 
+        color: #d1633c; 
+        font-size: 1.4em;
+        font-family: 'Montserrat', sans-serif;
+          }
+    h3 { 
+        color: #d1633c; 
+        font-family: 'Montserrat', sans-serif;
+          }
+    p { 
+        color:azure;
+        font-size: 1.2em;
+          }
+          footer { 
+        border-top: 1px solid #57b1dc;  text-align: center;  padding-top: 1em; 
+    } 
+    footer img {
+        width: 40px;  height: 40px;  margin-left: .5em;  margin-right: .5em; 
+    }
+
+    dl{
+        color: azure; 
+        font-size: 1.2em;
+    }
+    small{
+        color:#1089c2
+    }
+    strong{
+        color:#57b1dc
+    }
+    b{
+        color:#83c3e0
+    }
+    nav{
+        border: 1px solid black;
+    }
+    fieldset{
+        color: azure;
+        font-family: 'Fjalla One', sans-serif;
+    }
+    .jenlogo{
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        margin: auto;
+    }
+    .gallery{
+      text-align: center;
+      justify-content: center;
+      align-items: center;
+      align-content: center;
+      margin: auto;
+    }
+    address{
+      color:azure;
+    }
+    blockquote{
+    color: azure;
+    font-family: 'Montserrat', sans-serif;
+    }
