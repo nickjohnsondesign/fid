@@ -1,0 +1,91 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Archivo&family=Fira+Sans+Condensed:ital,wght@1,200&display=swap'); */
+ a:link {
+    color: #57b1dc;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:visited {
+    color: #1089c2;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:hover, a:focus {
+    color: red;
+    text-shadow: 0 0 2px #fff, 0 0 5px rgba(98, 198, 245, .15);
+  }
+
+  ul{
+      color:azure
+  }
+  
+  body{ 
+      background-color: #111111; 
+      margin: 0 10%; 
+      font-family: sans-serif; 
+  
+      }
+  
+  h1 { 
+      text-align: center;
+      font-family: 'Archivo', sans-serif;
+      font-weight: bold; 
+      text-transform: uppercase; 
+      letter-spacing: .25em;
+      color: #FA5843;
+      } 
+  h5 {
+      border-bottom: 1px solid #37EEFB; 
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      padding-bottom: 1em;
+      text-align: center;
+      color: azure;
+      font-style: italic;
+  }
+  h2 { 
+          color: #FAB42A; 
+          font-size: 1.15em;
+          font-family: 'Fira Sans Condensed', sans-serif;
+          }
+ 
+  footer { border-top: 1px solid #37EEFB;  text-align: center;  padding-top: 1em; 
+    } 
+    
+  h3 { 
+    border-top: 1px solid #37EEFB; 
+    padding-top: 1em;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    color: #FAB42A; 
+    font-size: 1.1em;
+          }
+      
+  p { 
+          color:azure
+          }
+          
+  footer {   
+    text-align: center;  
+    padding-top: 1em;
+    text-decoration: none;
+          }
+  footer img{
+      Width: 50px; height: 50px; 
+      margin-left: 10px; margin-right: 10px;
+  }
+  img{
+      text-align: center;
+  }
+  .thumbnail{
+    text-align: center;
+    grid-template-rows: auto;
+    display: flex;
+    flex: 1 1 50px;
+    justify-content: center;
+  }
+  .thumbnail img{
+    margin: 12.5px
+  }
+  .me{
+    margin-top: 20px;
+    width: 320px;
+    height: 320px;
+  }
