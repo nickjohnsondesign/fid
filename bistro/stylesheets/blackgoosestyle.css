@@ -1,3 +1,4 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Fjalla+One&family=Montserrat:wght@300&display=swap'); */
 .button{
     text-align: center;
     justify-content: center;
@@ -138,4 +139,14 @@
     blockquote{
     color: azure;
     font-family: 'Montserrat', sans-serif;
+    }
+    dt{
+      font-size: 25px;
+      color:#83c3e0
+    }
+    .newitem{
+      font-weight: 25px
+    }
+    .food{
+      font-size: 25px;
     }
